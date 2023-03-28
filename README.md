@@ -5,7 +5,7 @@ This is a boilerplate project that provides a secure starting point for building
 ## Features
 - [x] **NoSQL database**: [MongoDB](https://www.mongodb.com) object data modeling using [Mongoose](https://mongoosejs.com)
 - [x] **Security**: set security HTTP headers using [helmet](https://helmetjs.github.io)
-- [x] **Santizing**: sanitize request data against xss, query injections and HTTP parameter pollution using [xss-clean](), [express-mongo-sanitize](), [hpp]()
+- [x] **Santizing**: sanitize request data against xss, query injections and HTTP parameter pollution using [xss-clean](), [express-mongo-sanitize]() & [hpp]()
 - [x] **Rate Limiting**: prevent small DDOS and Brute-Force Attacks using [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible)
 - [x] **CORS**: Cross-Origin Resource-Sharing enabled using [cors](https://github.com/expressjs/cors)
 - [x] **Error handling**: centralized and async error handling mechanism with a custom error class
