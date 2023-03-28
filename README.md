@@ -1,4 +1,4 @@
-# Node.js (Express.js) and MongoDB (Mongoose) Boilerplate
+# Node.js (Express) and MongoDB (Mongoose) Boilerplate
 
 This is a boilerplate project that provides a secure starting point for building web applications with Node.js (Express.js) and MongoDB (Mongoose). It also includes a Docker container for easy deployment and scalability, as well as Redis for rate limiting.
 
