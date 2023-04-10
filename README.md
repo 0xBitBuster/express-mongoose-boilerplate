@@ -14,6 +14,7 @@ This is a boilerplate project that provides a secure starting point for building
 - [x] **Compression**: gzip compression with [compression](https://github.com/expressjs/compression)
 - [x] **Logging**: using [morgan](https://github.com/expressjs/morgan)
 - [x] **Docker support**: for easy deployment and scalability
+- [x] **Best Practices**: Async catch handler, Directory Structure, Validation
 
 ## Getting Started
 ### Prerequisites
